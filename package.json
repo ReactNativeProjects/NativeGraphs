@@ -1,0 +1,14 @@
+{
+  "name": "NativeGraphs",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "react-native": "0.44.2",
+    "react-native-accordion": "^1.0.1",
+    "react-native-chart": "^1.0.8-beta",
+    "react-native-pie-chart": "^1.0.11"
+  }
+}
